@@ -1,0 +1,75 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hyponatraemia---primary.py
+inputModule3:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-specified---primary.py
+inputModule4:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hypercalcaemia---primary.py
+inputModule5:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-metabolism---primary.py
+inputModule6:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hypokalaemia---primary.py
+inputModule7:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-level---primary.py
+inputModule8:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-respiratory---primary.py
+inputModule9:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hyperchloraemia---primary.py
+inputModule10:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-calcium---primary.py
+inputModule11:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-deficiency---primary.py
+inputModule12:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hypochloraemia---primary.py
+inputModule13:
+  class: File
+  path: python/idiopathic-fluid-and-electrolyte-disorders-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-raised---primary.py
+inputModule15:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-alkalaemia---primary.py
+inputModule16:
+  class: File
+  path: python/electrolyte---primary.py
+inputModule17:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-depletion---primary.py
+inputModule18:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-alkalosis---primary.py
+inputModule19:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-balance---primary.py
+inputModule20:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-acidosis---primary.py
+inputModule21:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hypovolaemia---primary.py
+inputModule22:
+  class: File
+  path: python/abnormal-fluid-and-electrolyte-disorders-elixhauser-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-hyperkalaemia---primary.py
+inputModule24:
+  class: File
+  path: python/fluid-and-electrolyte-disorders-elixhauser-primary-care-potassium---primary.py
+inputModule25:
+  class: File
+  path: python/output-cases.py
